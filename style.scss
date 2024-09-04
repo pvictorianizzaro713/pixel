@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+//pixel px - absoluto
+.primeira-sessao{
+    border: solid rgb(254, 0, 106) 4px;
+    div{
+        width: 200px;
+        background-color: orangered;
+        height: 200px;
+    }
+}
